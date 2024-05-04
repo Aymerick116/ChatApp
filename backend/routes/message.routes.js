@@ -10,3 +10,4 @@ router.post("/send/:id", protectRoute, sendMessage);
 
 
 export default router;
+
